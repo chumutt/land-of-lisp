@@ -28,8 +28,7 @@
     ,(first cmds)
     ,(second cmds)
     ,(third cmds)
-    ,(fourth cmds)
-    (and) quit))
+    ,(fourth cmds)))
 
 (defun describe-path (edge)
   `(there is a ,(caddr edge) going ,(cadr edge) from here.))

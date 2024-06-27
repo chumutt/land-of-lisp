@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       22c02673-fbb2-403d-adbe-e70a9573475d
+:END:
 #+title: Readme
 
 land of lisp
